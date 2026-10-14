@@ -23,6 +23,7 @@ from utils import (
     make_get_filepath,
     load_markets,
     get_file_mod_ms,
+    utc_ms,
     get_quote,
     date_to_ts,
     get_first_ohlcv_iteratively,
